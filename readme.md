@@ -79,4 +79,4 @@ You can modify the `blockchainDemonstration.ts` file to add more blocks to the b
 
 ## Credits
 
-This project was created by Omkar[https://github.com/omkar342]. Feel free to use it as a starting point for your own blockchain projects.
+This project was created by [Omkar](https://github.com/omkar342). Feel free to use it as a starting point for your own blockchain projects.
